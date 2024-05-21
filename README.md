@@ -4,6 +4,6 @@
 
 - This Site is designed using HTML , CSS, JS, SQL , PHP,XML.
 
-![N-Queen-visualisation](visualisation.gif)
+![Site-visualisation](Barkatullah university institute of technology bhopal - BUIT - Brave 2024-05-21 13-54-31.gif)
 
-**<p align='center'>You can find the website live <a href="https://ajeetsoni2002.github.io/N-Queens-Visualiser/">here</a></p>**
+**<p align='center'>You can find the website live <a href="https://ajeetsoni2002.github.io/busite.github.io/">here</a></p>**
